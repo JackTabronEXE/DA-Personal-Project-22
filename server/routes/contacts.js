@@ -21,7 +21,7 @@ router.get('/', (req, res) => {
 router.post('/add', (req, res) => {
   db.addContacts(req.body)
     .then(() => {
-      res.redirect('/')
+      res.redirect('/add')
     })
     .catch((err) => {
       console.log(err)

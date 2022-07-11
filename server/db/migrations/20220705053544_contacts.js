@@ -6,7 +6,7 @@ exports.up = function(knex) {
   return knex.schema.createTable('contacts', function (table) {
     table.increments('id')
     table.string('name')
-    table.string('e-mail')
+    table.string('email')
     table.string('message')
   })
 };

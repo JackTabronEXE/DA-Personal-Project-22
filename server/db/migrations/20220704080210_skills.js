@@ -5,8 +5,9 @@
  exports.up = function (knex) {
   return knex.schema.createTable('skills', function (table) {
     table.increments('id')
-    table.string('name')
-    table.string('core')
+    table.string('skill_name')
+    table.string('proficiency')
+    table.string('type')
   })
 }
 

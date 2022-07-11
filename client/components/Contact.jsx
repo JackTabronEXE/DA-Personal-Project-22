@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import emailjs from 'emailjs-com';
+import { addUser } from '../api/users'
 
 const Contact = () => {
 
@@ -19,7 +20,7 @@ const Contact = () => {
                 message
             };
     
-        // addStudent(addContact)
+        addUser({name, email, message})
         //     .then (newContact => dispatch({type: "UPDATE_STUDENT", payload: newContact}))
         //     .catch(err => {
         //       console.log(err)

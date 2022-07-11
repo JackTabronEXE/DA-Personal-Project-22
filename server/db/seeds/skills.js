@@ -9,32 +9,50 @@
     {
       id: 1,
       skill_name: 'Javascript',
-      cohort: 'Mako 22',
+      proficiency: '',
+      type: 'core'
     },
     {
       id: 2,
-      name: 'Jack',
-      cohort: 'Mako 22',
+      skill_name: 'Node JS',
+      proficiency: '',
+      type: 'core'
     },
     {
       id: 3,
-      name: 'Cam',
-      cohort: 'Mako 22',
+      skill_name: 'MySQL',
+      proficiency: '',
+      type: 'core'
     },
     {
       id: 4,
-      name: 'Mere',
-      cohort: 'Mako 22',
+      skill_name: 'React JS',
+      proficiency: '',
+      type: 'core'
     },
     {
       id: 5,
-      name: 'Vincent(Dā Māori JV)',
-      cohort: 'Mako 22',
+      skill_name: 'NodeJS',
+      proficiency: '',
+      type: 'core'
     },
     {
       id: 6,
-      name: 'Ngairo(JV Son)',
-      cohort: 'Mako 22',
+      skill_name: 'Python',
+      proficiency: '',
+      type: 'core'
+    },
+    {
+      id: 7,
+      skill_name: 'HTML',
+      proficiency: '',
+      type: 'core'
+    },
+    {
+      id: 8,
+      skill_name: 'CSS',
+      proficiency: '',
+      type: 'core'
     },
   ])
 }

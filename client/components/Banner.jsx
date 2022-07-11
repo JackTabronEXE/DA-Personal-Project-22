@@ -3,7 +3,6 @@ import React from 'react'
 function Banner() {
 return (
 <>
-<body>
 <div id="app"></div>
   <div className="ds-banner">
     <div className="container">
@@ -15,7 +14,7 @@ return (
             </div>
           </figure>
           </div>
-        <div clasName="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 col-xxl-7">
+        <div className="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 col-xxl-7">
           <section>
               <h1>
                 <span>HI THERE</span>
@@ -41,7 +40,6 @@ return (
     </div>
     </div>
 
-</body>
 </>
 )
 }
