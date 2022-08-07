@@ -10,7 +10,7 @@ return (
         <div className="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
           <figure>
             <div>
-            <img src="../images/ezgif.com-gif-maker.gif"/>
+            <img src="../images/DP-N.png"/>
             </div>
           </figure>
           </div>
@@ -18,20 +18,21 @@ return (
           <section>
               <h1>
                 <span>HI THERE</span>
-                I’m Jack Tabron, <br/> Junior developer based in Auckland.
+                I’m Jack Tabron, <br></br> 
+								<br></br> Junior full stack dev based in Auckland.
               </h1>
               <ul className="ds-numbervalulist">
                 <li>
-                  <strong>0</strong>
-                  <span>Experience</span>
+                  <strong>phone</strong>
+                  <span>+6421829247</span>
                 </li>
                 <li>
-                  <strong>0</strong>
-                  <span>Skill</span>
+                  <strong>e-mail</strong>
+                  <span>jacktabron@gmail.com</span>
                 </li>
                 <li>
-                  <strong>7</strong>
-                  <span>cannot /GET</span>
+                  {/* <strong>6</strong>
+                  <span>Digital Marketing</span> */}
                 </li>
               </ul>
           </section>

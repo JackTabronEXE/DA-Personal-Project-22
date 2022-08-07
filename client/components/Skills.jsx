@@ -30,11 +30,12 @@ function Skills() {
         <div className="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
           <h2 className="ds-heading">Other Skills</h2>
           <ul className="ds-skills-list">
-            <li>Storyblok</li>
-            <li>PWAs</li>
-            <li>Responsive Web Design</li>
-            <li>React</li>
-            <li>Vuetify</li>
+            <li>Adobe Creative Suite</li>
+            <li>Project Management Tools</li>
+            <li>Google Analytics/SEO</li>
+            <li>Copywriting</li>
+						<li>100WPM Type-Speed</li>
+						<li>Presenations/Public Speaking</li>
           </ul>
         </div>
       </div>
