@@ -1,8 +1,8 @@
 {
-  "name": "worldwide-routing",
+  "name": "jack-personal-project",
   "version": "0.2.0",
-  "description": "Using React Router to navigate the globe",
-  "repository": "https://github.com/dev-academy-challenges/worldwide-routing.git",
+  "description": "Showing my own work and experience",
+  "repository": "https://github.com/JackTabronEXE/DA-Personal-Project-22",
   "main": "server/index.js",
   "scripts": {
     "start": "run-p webpack server",
