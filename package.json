@@ -1,14 +1,14 @@
 {
   "homepage": "http://JackTabronEXE.github.io/DA-Personal-Project-22",
-	"name": "jack-personal-project",
+  "name": "jack-personal-project",
   "version": "0.2.0",
   "description": "Showing my own work and experience",
   "repository": "https://github.com/JackTabronEXE/DA-Personal-Project-22",
   "main": "server/index.js",
   "scripts": {
-    "start": "run-p webpack server",
-		"predeploy": "npm run build",
+    "predeploy": "npm run build",
 		"deploy": "gh-pages -d build",
+		"start": "run-p webpack server",
     "dev": "run-p client server",
     "webpack": "webpack --config client/webpack.config.js",
     "client": "npm run webpack -- --watch",
