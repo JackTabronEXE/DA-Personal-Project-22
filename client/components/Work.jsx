@@ -40,8 +40,8 @@ function Work() {
                    <div className="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 col-xxl-7">
                        <section>
                            <h3 className="ds-work-tilte">Wordle Clone</h3>
-                           <p>It's refeshing to see how such a simple game and concept could gather such a loyal following over the last couple of years, ever since I started coding I wanted to create my own version
-														of the popular game. I was inspried by @PedroTech to give it a go, plus I think it's a good way to impress family and friends "hey everybody look at my Wordle you have unlimited tries!" </p>
+                           <p>It&apos;s refeshing to see how such a simple game and concept could gather such a loyal following over the last couple of years, ever since I started coding I wanted to create my own version
+														of the popular game. I was inspried by @PedroTech to give it a go, plus I think it&apos;s a good way to impress family and friends &quot;hey everybody look at my Wordle you have unlimited tries!&quot; </p>
 														 <h3 className="ds-heading">Technologies Used</h3>
 														 <ul>
 																	<li>Node</li>
