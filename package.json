@@ -8,7 +8,7 @@
   "scripts": {
     "start": "run-p webpack server",
 		"predeploy": "npm run build",
-		"deploy": "gh-pages --d build",
+		"deploy": "gh-pages -d build",
     "dev": "run-p client server",
 		"build": "run-s build:client build:server",
 		"build:client": "npm run webpack -- --mode production",
