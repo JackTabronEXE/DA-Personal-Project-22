@@ -55,7 +55,7 @@ function Work() {
 											 <br></br> 
                    </div>
                    <div className="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
-                       <figure> <img src="images/wordle_project.png"/> </figure> <br></br>
+                       <figure> <img src="images/wordle_project.PNG"/> </figure> <br></br>
 											 <br></br>
                    </div>
                </div>
